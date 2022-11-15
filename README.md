@@ -17,7 +17,7 @@
 
     <li>Diziler
         <ul>
-           <a href="https://en.wikipedia.org/wiki/Breaking_Bad"target=_blank> <li>Breaking Bad</li></a> 
+            <a href="https://en.wikipedia.org/wiki/Breaking_Bad"target=_blank> <li>Breaking Bad</li></a> 
             <li>Dexter</li>
             <li>Better Call Saul</li>
         </ul>
